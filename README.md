@@ -14,8 +14,7 @@ In this challenge, we use Tableau create several plots and visualizations of the
     - Heatmap showing the number of bike trips by gender for each hour of each day of the week
     - Heatmap showing the number of bike trips for each type of user and gender for each day of the week
 - **Deliverable 3: Create a Story and Report for the Final Presentation**.
-    - The final Tableau Story can be found here: [Citibike Tableau Story](https://public.tableau.com/app/profile/sean.wood1392/viz/BootcampModule15ChallengeCitibike/citibike?publish=yes)
-    - A downloadable version of the Tableau file can be found here: [Citibike_Challenge.twbx](Citibike_Challenge.twbx)   
+    - The final Tableau Story can be found here: [Citibike Tableau Story](https://public.tableau.com/app/profile/sean.wood1392/viz/BootcampModule15ChallengeCitibike/citibike?publish=yes)  
 
 ## Resources
 - Citibike September 2019 data: [201908-citibike-tripdata.csv](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
